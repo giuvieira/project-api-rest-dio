@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "restapi/gradle/wrapper"
+        "restapi/gradle/wrapper",
+        "restapi/src/main/java/me/dio"
     ]
 }

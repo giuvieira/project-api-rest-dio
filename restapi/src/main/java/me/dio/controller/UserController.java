@@ -1,3 +1,5 @@
-public class UserController {
+package controller;
+
+public record UserController() {
 
 }
